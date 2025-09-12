@@ -7,19 +7,12 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a6ebd7ca71edae6a",
-        "username": "Gaurav",
-        "password": "Gaurav",
+        "device_id": "100d30529e3aaf20",
+        "username": "Flipkart@12345",
+        "password": "Asmoli@12345",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    },
+    },  
     {
         "device_id": "8f17d9be98fdad00",
         "username": "Brozastin",
