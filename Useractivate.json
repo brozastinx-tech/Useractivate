@@ -40,5 +40,12 @@
         "password": "golu",
         "expirydate": "01-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e6c435a2a0d6b697",
+        "username": "Veeru88",
+        "password": "Dolly@123",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
