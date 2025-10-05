@@ -61,5 +61,12 @@
         "password": "Asmoli@5815",
         "expirydate": "01-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d860edcbf64be34d",
+        "username": "Asmoli@12345",
+        "password": "Asmoli@5815",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
