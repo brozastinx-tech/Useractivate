@@ -21,10 +21,32 @@
         "Allowoffline": false
     },
     {
+        "device_id": "d860edcbf64be34d",
+        "username": "Manjari yadav",
+        "password": "8950393053",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e6c435a2a0d6b697",
+        "username": "Veeru88",
+        "password": "Dolly@123",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "0356103a05cbd84b",
         "username": "Rampurodh",
         "password": "Daya@1234",
         "expirydate": "01-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6347d7e01fe538e0",
+        "username": "Keshu",
+        "password": "Sanjay@12345",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
+    
     
