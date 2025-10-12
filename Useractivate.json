@@ -54,5 +54,12 @@
         "password": "vikku",
         "expirydate": "01-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "100d30529e3aaf20",
+        "username": "Asmoli@12345",
+        "password": "Asmoli@5815",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
     }
 ]
